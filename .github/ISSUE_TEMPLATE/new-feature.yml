@@ -21,3 +21,6 @@ If at any point you have questions, please reach out to us on [Chat](https://wha
   - type: textarea
     attributes:
       label: "Anything else?"
+  - type: markdown
+    attributes:
+      value: "Thank you for taking the time to improve the DOM Standard!"

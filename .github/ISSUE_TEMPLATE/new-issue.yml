@@ -11,3 +11,6 @@ If at any point you have questions, please reach out to us on [Chat](https://wha
       label: "What is the issue?"
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: "Thank you for taking the time to improve the DOM Standard!"
