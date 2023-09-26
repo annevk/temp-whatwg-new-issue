@@ -1,0 +1,13 @@
+name: New issue
+description: File a new issue against the DOM Standard.
+body:
+  - type: markdown
+    attributes:
+      value: "Before filling out this form, please familiarize yourself with the [Code of Conduct](). You might also find the [FAQ]() and [Working Mode]() useful.
+      
+If at any point you have questions, please reach out to us on [Chat]()."
+  - type: textarea
+    attributes:
+      label: "What is the issue?"
+    validations:
+      required: true
