@@ -4,9 +4,9 @@ labels: ["addition/proposal", "needs implementer interest"]
 body:
   - type: markdown
     attributes:
-      value: "Before filling out this form, please familiarize yourself with the [Code of Conduct], [FAQ](), and [Working Mode](). They help with setting expectations and making sure you know what is required.
+      value: "Before filling out this form, please familiarize yourself with the [Code of Conduct](https://whatwg.org/code-of-conduct), [FAQ](https://whatwg.org/faq), and [Working Mode](https://whatwg.org/working-mode). They help with setting expectations and making sure you know what is required.
       
-If at any point you have questions, please reach out to us on [Chat]()."
+If at any point you have questions, please reach out to us on [Chat](https://whatwg.org/chat)."
   - type: textarea
     attributes:
       label: "What problem are you trying to solve?"
