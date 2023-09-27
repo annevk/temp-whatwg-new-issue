@@ -6,6 +6,7 @@ body:
     attributes:
       value: "Before filling out this form, please familiarize yourself with the [Code of Conduct](https://whatwg.org/code-of-conduct), [FAQ](https://whatwg.org/faq), and [Working Mode](https://whatwg.org/working-mode). They help with setting expectations and making sure you know what is required.
       
+
 If at any point you have questions, please reach out to us on [Chat](https://whatwg.org/chat)."
   - type: textarea
     attributes:
