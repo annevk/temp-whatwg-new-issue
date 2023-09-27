@@ -5,4 +5,4 @@ contact_links:
     about: Please do reach out with questions and feedback!
   - name: StackOverflow
     url: https://stackoverflow.com/
-    about: If you're having trouble building a website, this is not the right repository. Consider asking your question on StackOverflow instead.
+    about: If you're having trouble building a web page, this is not the right repository. Consider asking your question on StackOverflow instead.
