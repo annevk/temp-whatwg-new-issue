@@ -3,6 +3,6 @@ contact_links:
   - name: Chat
     url: https://whatwg.org/chat
     about: Please do reach out with questions and feedback!
-  - name: StackOverflow
+  - name: Stack Overflow
     url: https://stackoverflow.com/
-    about: If you're having trouble building a web page, this is not the right repository. Consider asking your question on StackOverflow instead.
+    about: If you're having trouble building a web page, this is not the right repository. Consider asking your question on Stack Overflow instead.
